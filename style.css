@@ -4711,6 +4711,7 @@ blockquote {
 .button-group {
   grid-column-gap: 16px;
   display: flex;
+  justify-content: center;
 }
 
 .form-inline {
@@ -4737,7 +4738,7 @@ blockquote {
 }
 
 .fill-75 {
-  width: 75%;
+  width: 100%;
 }
 
 .fill-50 {

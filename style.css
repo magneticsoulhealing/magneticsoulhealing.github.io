@@ -4277,6 +4277,7 @@ blockquote {
   grid-row-gap: 48px;
   flex-direction: column;
   display: flex;
+  justify-content: center;
 }
 
 .g-stack-3xl {

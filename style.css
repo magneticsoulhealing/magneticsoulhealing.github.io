@@ -2696,6 +2696,11 @@ blockquote {
   line-height: 1.2;
 }
 
+.headline.ss {
+  
+  font-size: 1.5rem;
+}
+
 .headline.m {
   letter-spacing: -0.025rem;
   font-size: 2rem;
@@ -5648,7 +5653,7 @@ blockquote {
 
 .price-text {
   color: var(--neutrals-900);
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 500;
   line-height: 1.1;
 }

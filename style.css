@@ -2691,14 +2691,13 @@ blockquote {
 }
 
 .headline.s {
-  letter-spacing: -0.025rem;
   font-size: 1.75rem;
   line-height: 1.2;
 }
 
 .headline.ss {
-  
-  font-size: 1.5rem;
+  letter-spacing: +0.015rem;
+  font-size: 1.25rem;
 }
 
 .headline.m {
